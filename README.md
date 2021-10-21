@@ -3,7 +3,6 @@
 
 <p align="center">
 <span> Reach Out @</span>
-<a href="https://github.com/Notse">Github</a>🔗
 <a href="https://codepen.io/notse">CodePen</a>🔗
 <a href="https://www.instagram.com/n1278nikhil">Instagram</a>🔗
 </p>
