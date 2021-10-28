@@ -5,8 +5,8 @@
 
 <p align="center">
 <span> Check Out </span>
-<a href="https://codepen.io/notse">🔗 - CodePen</a>
-<a href="https://www.instagram.com/n1278nikhil">🔗 - Instagram</a>
+<a href="https://codepen.io/notse">🔗 CodePen</a>
+<a href="https://www.instagram.com/n1278nikhil">🔗  Instagram</a>
 </p>
 
 <h1 align="center">Loves Art!</h1>
