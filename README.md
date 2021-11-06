@@ -1,10 +1,11 @@
 <a href="https://codepen.io/notse"> <img src="https://raw.githubusercontent.com/Notse/notse-assets/main/svg/Web%20art%20%20css%20animated.svg"></a>
 
-<h1 align="center">Namaste Everyone😁</h1>
-<p align="center">My Name is Nikhil Notse <br>💻 Web Developer </p>
+<h1  >Namaste Everyone!😁</h1>
+<p> My name is Nikhil Notse and I'm a Spider (Web 🕸 Developer). You can find me on <a href="https://twitter.com/Martin_Heinz_">Twitter</a>. </p>
 
-<p align="center">
-<span> Check Out </span>
+
+<h2 > Links </h2>
+<p >
 🔗 <a href="https://codepen.io/notse">CodePen</a>
 🔗 <a href="https://www.instagram.com/n1278nikhil"> Instagram</a>
 </p>
